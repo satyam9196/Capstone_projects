@@ -74,3 +74,8 @@ capstone-project/
 For any questions or collaboration requests, feel free to reach out or open an issue.
 
 ---
+
+## 👨‍💻 Author
+
+**Satyam9196**  
+GitHub: [@satyam9196](https://github.com/satyam9196)
